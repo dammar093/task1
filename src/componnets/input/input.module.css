@@ -1,0 +1,30 @@
+.mainConatiner{
+  padding: 10px;
+  background-color: #1A1F28;
+}
+.text{
+  color: white;
+  font-size: 20px;
+  font-weight:700;
+  padding: 5px;
+  font-family: sans-serif;
+}
+.container {
+  display: flex;
+  background: white;
+  padding: 10px;
+}
+
+.lineNumbers {
+  border-right: 1px solid gray;
+  padding: 0 10px;
+}
+
+.textarea {
+  width: 100%;
+  height: 700px;
+  outline: none;
+  border: none;
+  padding: 0 10px;
+  font-family: sans-serif;
+}
